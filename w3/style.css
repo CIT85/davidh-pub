@@ -1,0 +1,80 @@
+/* style.css */
+
+body {
+  background-color: #f8f5f0; /* Light beige */
+  color: #333333; /* Dark gray text */
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  background-color: #e3d5ca; /* Light brown */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px; /* Add some space below the container */
+}
+
+h1 {
+    color: #a85f35; /* burnt orange */
+}
+
+.container1 {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #d3c2ba; /* Light brown */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px; /* Add some space below the container */
+}
+h2 {
+    color: #a85f35; /* burnt orange */
+}
+
+.container2 {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 20px; /* Add some space below the container */
+  background-color: #c9b4ad; /* New: Slightly different shade of light brown */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+h3 {
+    color: #a85f35; /* burnt orange */
+}
+
+.image-and-prompt {
+  text-align: center;
+}
+
+.reference-item {
+  
+  margin-bottom: 1em;
+  background-color: #d3c2ba; /* Slightly different Light brown*/
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 1em;
+  text-indent: 0; /* Remove the text indent*/
+}
+
+.references {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a {
+    color: #a85f35; /* burnt orange */
+}
