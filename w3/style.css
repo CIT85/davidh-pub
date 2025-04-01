@@ -18,11 +18,15 @@ body {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin-bottom: 20px; /* Add some space below the container */
   text-wrap: wrap;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 h1 {
-    color: #a85f35; /* burnt orange */
-    text-wrap: wrap;
+  color: #a85f35; /* burnt orange */
+  text-wrap: wrap;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .container1 {
@@ -36,10 +40,15 @@ h1 {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin-bottom: 20px; /* Add some space below the container */
   text-wrap: wrap;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
+
 h2 {
-    color: #a85f35; /* burnt orange */
-    text-wrap: wrap;
+  color: #a85f35; /* burnt orange */
+  text-wrap: wrap;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .container2 {
@@ -53,10 +62,15 @@ h2 {
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   text-wrap: wrap;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
+
 h3 {
-    color: #a85f35; /* burnt orange */
-    text-wrap: wrap;
+  color: #a85f35; /* burnt orange */
+  text-wrap: wrap;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .image-and-prompt {
@@ -73,20 +87,24 @@ h3 {
   padding-left: 1em;
   text-indent: 0; /* Remove the text indent*/
   text-wrap: wrap;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .references {
-    max-width: 1140px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
-    text-wrap: wrap;
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-wrap: wrap;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 a {
-    color: #a85f35; /* burnt orange */
-    text-wrap: wrap;
+  color: #a85f35; /* burnt orange */
+  text-wrap: wrap;
 }
 
 .prompt-text {
