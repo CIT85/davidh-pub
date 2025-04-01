@@ -93,6 +93,8 @@ h3 {
   text-wrap: wrap;
   padding-top: 20px;
   padding-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .references {
@@ -120,5 +122,5 @@ a {
 }
 
 .responsive-image {
-  max-width: 80%;
+  max-width: 50%;
 }
