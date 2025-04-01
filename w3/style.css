@@ -88,3 +88,11 @@ a {
     color: #a85f35; /* burnt orange */
     text-wrap: wrap;
 }
+
+.prompt-text {
+  margin-left: auto;
+  margin-right: auto;
+  text-wrap: wrap;
+  max-width: 80%;
+  color: #1b0a09;
+}
