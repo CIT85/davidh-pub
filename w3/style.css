@@ -4,6 +4,8 @@ body {
   background-color: #f8f5f0; /* Light beige */
   color: #333333; /* Dark gray text */
   font-family: sans-serif;
+  text-align: center;
+  overflow-x: hidden; /* disable horizontal scrolling */
 }
 
 .container {
@@ -49,6 +51,8 @@ h2 {
   text-wrap: wrap;
   padding-top: 20px;
   padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .container2 {
@@ -117,4 +121,4 @@ a {
 
 .responsive-image {
   max-width: 80%;
-  }
+}
