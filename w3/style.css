@@ -4,7 +4,6 @@ body {
   background-color: #f8f5f0; /* Light beige */
   color: #333333; /* Dark gray text */
   font-family: sans-serif;
-  text-align: center;
   overflow-x: hidden; /* disable horizontal scrolling */
 }
 
@@ -44,6 +43,7 @@ h1 {
   text-wrap: wrap;
   padding-top: 20px;
   padding-bottom: 20px;
+  text-align: center;
 }
 
 h2 {
