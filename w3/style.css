@@ -126,3 +126,7 @@ a {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+hr {
+  max-width: 80%;
+  }
